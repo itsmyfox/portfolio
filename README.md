@@ -27,7 +27,8 @@
 ### Языки программирования
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Batch](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Инструменты
 - 🔧 IntelliJ IDEA
